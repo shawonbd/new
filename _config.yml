@@ -2,7 +2,7 @@ name: Twister
 description: a powerful jekyll theme
 url: shawonbd.github.io/new
 gems: [jekyll-paginate]
-baseurl: shawonbd.github.io/new
+baseurl: 
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
